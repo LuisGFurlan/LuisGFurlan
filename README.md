@@ -2,8 +2,8 @@
 
 **A brazilian developer learning something new everyday**
 
-- 🏢 Working at [Evolve Tecnologia](https://evolvetecnologia.com.br)
-- 🎓 Studying at [Centro Universitário SENAI - Joinville](https://sc.senai.br/unidade/joinville/)
+- 🏢 Working at [Evolve Tecnologia](https://evolvecap.com.br/)
+- 🎓 Studying at [Centro Universitário SENAI - Joinville](https://sc.senai.br/)
 
 ---
 
