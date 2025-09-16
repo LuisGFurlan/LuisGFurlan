@@ -16,7 +16,7 @@
 
 <p align="center">
   🏢 Working at <a href="https://evolvecap.com.br/"><b>EVOLVE TECNOLOGIA</b></a> |
-  🎓 Studying at <a href="https://sc.senai.br/"><b>SENAI JOINVILLE</b></a>
+  🎓 Studying at <a href="https://unisenaisc.com.br/"><b>UNISENAI JOINVILLE</b></a>
 </p>
 
 ---
