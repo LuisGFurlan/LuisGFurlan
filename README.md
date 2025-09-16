@@ -7,8 +7,7 @@
 
 <h3 align="center">👨‍💻 About me</h3>
 <p align="center">
-  Mobile developer at heart, crafting smooth, native-feel <strong>Flutter</strong> apps.<br/>
-  I step into full-stack whenever it helps the product — because great UX starts long before the UI.
+  A front-end developer at heart, creating web and mobile applications with a focus on UI | UX because a great experience starts long before the interface.
 </p>
 
 <p align="center"><strong><em>A Brazilian developer learning something new every day.</em></strong></p>
